@@ -1,0 +1,667 @@
+{
+    "The Shawshank Redemption": {
+        "rating": 8.701,
+        "genres": [
+            "Drama",
+            "Crime"
+        ]
+    },
+    "The Godfather": {
+        "rating": 8.711,
+        "genres": [
+            "Drama",
+            "Crime"
+        ]
+    },
+    "The Dark Knight": {
+        "rating": 8.509,
+        "genres": [
+            "Drama",
+            "Action",
+            "Crime",
+            "Thriller"
+        ]
+    },
+    "The Godfather Part II": {
+        "rating": 8.596,
+        "genres": [
+            "Drama",
+            "Crime"
+        ]
+    },
+    "12 Angry Men": {
+        "rating": 8.5,
+        "genres": [
+            "Drama"
+        ]
+    },
+    "Schindler's List": {
+        "rating": 8.569,
+        "genres": [
+            "Drama",
+            "History",
+            "War"
+        ]
+    },
+    "The Lord of the Rings: The Return of the King": {
+        "rating": 8.474,
+        "genres": [
+            "Adventure",
+            "Fantasy",
+            "Action"
+        ]
+    },
+    "Pulp Fiction": {
+        "rating": 8.491,
+        "genres": [
+            "Thriller",
+            "Crime"
+        ]
+    },
+    "The Lord of the Rings: The Fellowship of the Ring": {
+        "rating": 8.396,
+        "genres": [
+            "Adventure",
+            "Fantasy",
+            "Action"
+        ]
+    },
+    "The Good, the Bad and the Ugly": {
+        "rating": 8.481,
+        "genres": [
+            "Western"
+        ]
+    },
+    "Forrest Gump": {
+        "rating": 8.482,
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ]
+    },
+    "Fight Club": {
+        "rating": 8.433,
+        "genres": [
+            "Drama",
+            "Thriller",
+            "Comedy"
+        ]
+    },
+    "The Lord of the Rings: The Two Towers": {
+        "rating": 8.4,
+        "genres": [
+            "Adventure",
+            "Fantasy",
+            "Action"
+        ]
+    },
+    "Inception": {
+        "rating": 8.362,
+        "genres": [
+            "Action",
+            "Science Fiction",
+            "Adventure"
+        ]
+    },
+    "The Empire Strikes Back": {
+        "rating": 8.393,
+        "genres": [
+            "Adventure",
+            "Action",
+            "Science Fiction"
+        ]
+    },
+    "The Matrix": {
+        "rating": 8.2,
+        "genres": [
+            "Action",
+            "Science Fiction"
+        ]
+    },
+    "GoodFellas": {
+        "rating": 8.467,
+        "genres": [
+            "Drama",
+            "Crime"
+        ]
+    },
+    "One Flew Over the Cuckoo's Nest": {
+        "rating": 8.424,
+        "genres": [
+            "Drama"
+        ]
+    },
+    "Se7en": {
+        "rating": 8.4,
+        "genres": [
+            "Crime",
+            "Mystery",
+            "Thriller"
+        ]
+    },
+    "It's a Wonderful Life": {
+        "rating": 8.259,
+        "genres": [
+            "Drama",
+            "Family",
+            "Fantasy"
+        ]
+    },
+    "Seven Samurai": {
+        "rating": 8.459,
+        "genres": [
+            "Action",
+            "Drama"
+        ]
+    },
+    "The Silence of the Lambs": {
+        "rating": 8.346,
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ]
+    },
+    "Saving Private Ryan": {
+        "rating": 8.207,
+        "genres": [
+            "Drama",
+            "History",
+            "War"
+        ]
+    },
+    "City of God": {
+        "rating": 8.422,
+        "genres": [
+            "Drama",
+            "Crime"
+        ]
+    },
+    "Interstellar": {
+        "rating": 8.398,
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Science Fiction"
+        ]
+    },
+    "Life Is Beautiful": {
+        "rating": 8.452,
+        "genres": [
+            "Comedy",
+            "Drama"
+        ]
+    },
+    "The Green Mile": {
+        "rating": 8.507,
+        "genres": [
+            "Fantasy",
+            "Drama",
+            "Crime"
+        ]
+    },
+    "Star Wars": {
+        "rating": 8.208,
+        "genres": [
+            "Adventure",
+            "Action",
+            "Science Fiction"
+        ]
+    },
+    "Terminator 2: Judgment Day": {
+        "rating": 8.095,
+        "genres": [
+            "Action",
+            "Thriller",
+            "Science Fiction"
+        ]
+    },
+    "Back to the Future": {
+        "rating": 8.312,
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Science Fiction"
+        ]
+    },
+    "Spirited Away": {
+        "rating": 8.5,
+        "genres": [
+            "Animation",
+            "Family",
+            "Fantasy"
+        ]
+    },
+    "The Pianist": {
+        "rating": 8.383,
+        "genres": [
+            "Drama",
+            "War"
+        ]
+    },
+    "Psycho": {
+        "rating": 8.446,
+        "genres": [
+            "Horror",
+            "Drama",
+            "Thriller"
+        ]
+    },
+    "Parasite": {
+        "rating": 4.9,
+        "genres": [
+            "Horror",
+            "Science Fiction"
+        ]
+    },
+    "L\u00e9on: The Professional": {
+        "rating": 8.32,
+        "genres": [
+            "Crime",
+            "Drama",
+            "Action"
+        ]
+    },
+    "The Lion King": {
+        "rating": 8.258,
+        "genres": [
+            "Family",
+            "Animation",
+            "Drama"
+        ]
+    },
+    "Gladiator": {
+        "rating": 8.205,
+        "genres": [
+            "Action",
+            "Drama",
+            "Adventure"
+        ]
+    },
+    "American History X": {
+        "rating": 8.355,
+        "genres": [
+            "Drama"
+        ]
+    },
+    "The Departed": {
+        "rating": 8.165,
+        "genres": [
+            "Drama",
+            "Thriller",
+            "Crime"
+        ]
+    },
+    "Whiplash": {
+        "rating": 8.377,
+        "genres": [
+            "Drama",
+            "Music"
+        ]
+    },
+    "The Prestige": {
+        "rating": 8.203,
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Science Fiction"
+        ]
+    },
+    "The Usual Suspects": {
+        "rating": 8.197,
+        "genres": [
+            "Drama",
+            "Crime",
+            "Thriller"
+        ]
+    },
+    "Casablanca": {
+        "rating": 8.173,
+        "genres": [
+            "Drama",
+            "Romance"
+        ]
+    },
+    "Grave of the Fireflies": {
+        "rating": 7.831,
+        "genres": [
+            "Drama"
+        ]
+    },
+    "Harakiri": {
+        "rating": 5.9,
+        "genres": [
+            "Drama"
+        ]
+    },
+    "The Intouchables": {
+        "rating": 8.275,
+        "genres": [
+            "Drama",
+            "Comedy"
+        ]
+    },
+    "Modern Times": {
+        "rating": 8.304,
+        "genres": [
+            "Comedy",
+            "Drama"
+        ]
+    },
+    "Once Upon a Time in the West": {
+        "rating": 8.297,
+        "genres": [
+            "Drama",
+            "Western"
+        ]
+    },
+    "Cinema Paradiso": {
+        "rating": 8.458,
+        "genres": [
+            "Drama",
+            "Romance"
+        ]
+    },
+    "Rear Window": {
+        "rating": 8.361,
+        "genres": [
+            "Thriller",
+            "Mystery"
+        ]
+    },
+    "Alien": {
+        "rating": 8.1,
+        "genres": [
+            "Horror",
+            "Science Fiction"
+        ]
+    },
+    "City Lights": {
+        "rating": 8.335,
+        "genres": [
+            "Comedy",
+            "Romance",
+            "Drama"
+        ]
+    },
+    "Apocalypse Now": {
+        "rating": 8.284,
+        "genres": [
+            "Drama",
+            "War"
+        ]
+    },
+    "Memento": {
+        "rating": 8.19,
+        "genres": [
+            "Mystery",
+            "Thriller"
+        ]
+    },
+    "Django Unchained": {
+        "rating": 8.163,
+        "genres": [
+            "Drama",
+            "Western"
+        ]
+    },
+    "Raiders of the Lost Ark": {
+        "rating": 7.923,
+        "genres": [
+            "Adventure",
+            "Action"
+        ]
+    },
+    "WALL\u00b7E": {
+        "rating": 8.075,
+        "genres": [
+            "Animation",
+            "Family",
+            "Science Fiction"
+        ]
+    },
+    "The Lives of Others": {
+        "rating": 8.04,
+        "genres": [
+            "Drama",
+            "Thriller"
+        ]
+    },
+    "Ed Ruscha - Motorized Photographs of Sunset Blvd. and Other L.A. Streets": {
+        "rating": 0.0,
+        "genres": [
+            "Documentary"
+        ]
+    },
+    "Paths of Glory": {
+        "rating": 8.279,
+        "genres": [
+            "Drama",
+            "War"
+        ]
+    },
+    "The Shining": {
+        "rating": 8.222,
+        "genres": [
+            "Horror",
+            "Thriller"
+        ]
+    },
+    "The Great Dictator": {
+        "rating": 8.342,
+        "genres": [
+            "Comedy",
+            "War"
+        ]
+    },
+    "Avengers: Infinity War": {
+        "rating": 8.264,
+        "genres": [
+            "Adventure",
+            "Action",
+            "Science Fiction"
+        ]
+    },
+    "Witness for the Prosecution": {
+        "rating": 8.222,
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Crime"
+        ]
+    },
+    "Aliens": {
+        "rating": 7.9,
+        "genres": [
+            "Action",
+            "Thriller",
+            "Science Fiction"
+        ]
+    },
+    "Spider-Man: Into the Spider-Verse": {
+        "rating": 8.407,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation",
+            "Science Fiction"
+        ]
+    },
+    "American Beauty": {
+        "rating": 8.028,
+        "genres": [
+            "Drama"
+        ]
+    },
+    "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb": {
+        "rating": 8.138,
+        "genres": [
+            "Drama",
+            "Comedy",
+            "War"
+        ]
+    },
+    "The Dark Knight Rises": {
+        "rating": 7.775,
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama",
+            "Thriller"
+        ]
+    },
+    "Oldboy": {
+        "rating": 5.935,
+        "genres": [
+            "Drama",
+            "Thriller",
+            "Mystery",
+            "Action"
+        ]
+    },
+    "Inglourious Basterds": {
+        "rating": 8.215,
+        "genres": [
+            "Drama",
+            "Thriller",
+            "War"
+        ]
+    },
+    "Amadeus": {
+        "rating": 8.0,
+        "genres": [
+            "History",
+            "Music",
+            "Drama"
+        ]
+    },
+    "Coco": {
+        "rating": 8.225,
+        "genres": [
+            "Family",
+            "Animation",
+            "Fantasy",
+            "Music",
+            "Comedy",
+            "Adventure"
+        ]
+    },
+    "Toy Story": {
+        "rating": 7.968,
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Family",
+            "Comedy"
+        ]
+    },
+    "Braveheart": {
+        "rating": 7.929,
+        "genres": [
+            "Action",
+            "Drama",
+            "History",
+            "War"
+        ]
+    },
+    "Joker": {
+        "rating": 8.171,
+        "genres": [
+            "Crime",
+            "Thriller",
+            "Drama"
+        ]
+    },
+    "Das Boot": {
+        "rating": 8.079,
+        "genres": [
+            "Drama",
+            "History",
+            "War"
+        ]
+    },
+    "Avengers: Endgame": {
+        "rating": 8.267,
+        "genres": [
+            "Adventure",
+            "Science Fiction",
+            "Action"
+        ]
+    },
+    "Princess Mononoke": {
+        "rating": 8.34,
+        "genres": [
+            "Adventure",
+            "Fantasy",
+            "Animation"
+        ]
+    },
+    "Once Upon a Time in America": {
+        "rating": 8.446,
+        "genres": [
+            "Drama",
+            "Crime"
+        ]
+    },
+    "Good Will Hunting": {
+        "rating": 8.146,
+        "genres": [
+            "Drama"
+        ]
+    },
+    "Your Name.": {
+        "rating": 8.522,
+        "genres": [
+            "Romance",
+            "Animation",
+            "Drama"
+        ]
+    },
+    "Singin' in the Rain": {
+        "rating": 8.164,
+        "genres": [
+            "Comedy",
+            "Music",
+            "Romance",
+            "Drama"
+        ]
+    },
+    "3 Idiots": {
+        "rating": 7.983,
+        "genres": [
+            "Drama",
+            "Comedy"
+        ]
+    },
+    "Requiem for a Dream": {
+        "rating": 8.033,
+        "genres": [
+            "Crime",
+            "Drama"
+        ]
+    },
+    "High and Low": {
+        "rating": 8.325,
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ]
+    },
+    "Toy Story 3": {
+        "rating": 7.791,
+        "genres": [
+            "Animation",
+            "Family",
+            "Comedy"
+        ]
+    },
+    "Capernaum": {
+        "rating": 8.17,
+        "genres": [
+            "Drama"
+        ]
+    }
+}
